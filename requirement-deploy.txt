@@ -1,0 +1,13 @@
+jupyterlab~=3.4
+jupyterlite-core
+jupyterlite-pyodide-kernel
+numpy
+matplotlib
+scipy
+scikit-learn
+jupyterlab-language-pack-zh-CN
+jupyterlab-night
+ipywidgets
+nbformat
+plotly
+notebook
